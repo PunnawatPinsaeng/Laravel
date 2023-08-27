@@ -1,0 +1,12 @@
+.p_table {
+    margin: 0;
+}
+    
+.p_table thead tr th {
+    color: #fff;
+    background-color: #999;
+}
+
+.p_table .p_center {
+    text-align: center;
+}
